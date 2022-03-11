@@ -1,4 +1,5 @@
-# masterproject_m6A
+# Masterproject: Elucidating the role of m6A in translation using long read sequencing.
+
 This repository contains the script (Masterproject_final_version.ipynb), which were used for the exploratory data analysis of my master-projet.
 All steps are documented and ensure the complete reproducibility of the figures and diagrams. 
 The file masterfinal.yml contains all dependencies which are need to run the script and all other described commands in the method section of the thesis. 
